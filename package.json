@@ -1,0 +1,28 @@
+{
+  "name": "readin",
+  "version": "0.0.1",
+  "description": "读取远程文件到指定路径并提供回调",
+  "main": "./lib/readin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiroChen/readin"
+  },
+  "keywords": [
+    "readin"
+  ],
+  "author": {
+    "name": "kiro.chen"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiroChen/readin/issues"
+  },
+  "homepage": "https://github.com/kiroChen/readin",
+  "readme": "ERROR: No README data found!",
+  "_id": "readin@0.0.1",
+  "_shasum": "0fc0281a6ac364b288d70679c9cb7f569d5ae88e",
+  "_from": "readin"
+}
